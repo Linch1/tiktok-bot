@@ -7,8 +7,10 @@
 <p align="center">
   <h1>Tiktok bot IN DEVELOPMENT</h1>
 </p>
+<p align="center">
+  ![alt text][logo] hey
+</p>
 
-![alt text][logo] hey
 
 [logo]: https://i.ibb.co/Tv95ZWW/logo-3.png "Logo Title Text 2"
 
