@@ -4,9 +4,9 @@
 </p>
 
 
-<p align="center">
-  <h1> Tiktok bot IN DEVELOPMENT </h1>
-</p>
+
+ <h1 align="center"> Tiktok bot IN DEVELOPMENT </h1>
+
 
 
 
