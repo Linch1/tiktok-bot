@@ -4,4 +4,4 @@
 </p>
 
 # Tiktok bot IN DEVELOPMENT
-![alt text](https://i.ibb.co/kXQByVW/logo-1.png "Logo Title Text 1")
+![alt text](https://i.ibb.co/Tv95ZWW/logo-3.png "Logo Title Text 1")
