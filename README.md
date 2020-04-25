@@ -1,6 +1,8 @@
 
- <h1 align="center"> Tiktok bot IN DEVELOPMENT </h1>
- 
+<h1 align="center"> Tiktok bot IN DEVELOPMENT </h1>
+<p align="center">
+  <img  width=100% src="https://i.ibb.co/9Nsf687/logo-4.gif">
+</p>
 <p align="center">
   <img  width=100% src="https://i.ibb.co/Fw6ySNq/logo-2.gif">
 </p>
