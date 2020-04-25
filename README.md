@@ -1,11 +1,12 @@
 
+ <h1 align="center"> Tiktok bot IN DEVELOPMENT </h1>
 <p align="center">
   <img  width=100% src="https://i.ibb.co/XW75TdT/logo-1.gif">
 </p>
 
 
 
- <h1 align="center"> Tiktok bot IN DEVELOPMENT </h1>
+
 
 
 
