@@ -6,11 +6,10 @@
 # 
 <p align="center">
   <h1>Tiktok bot IN DEVELOPMENT</h1>
-  
 </p>
 
 <p align="center">
-  ![alt text](https://i.ibb.co/Tv95ZWW/logo-3.png "Logo Title Text 1")
+  <img  src="https://i.ibb.co/Tv95ZWW/logo-3.png">
 </p>
 
 
